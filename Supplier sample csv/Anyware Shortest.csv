@@ -11,3 +11,32 @@ ItemNumber,ItemName,QuantityOnHand,SellingPrice,Brand,Category
 8WD-GS1,8ware World GPS Golf Watch,10,129,8WARE,ACCESSORIES
 8WD-HELI-DOCK,8ware USB Wireless Stream Box,10,72,8WARE,Storage Case
 8WD-HELI-SHELL,8ware 2.5'' HDD/SSD Wireless Enclosure,10,97,8WARE,Storage Case
+BX80662I56600K,Intel Skylake Core i5-6600K 3.5Ghz Unlocked 6MB LGA 1151 CPU + No heatsink,20,360.87,intel,cpu
+BX80646I54460, Intel Core i5-4460 3.2GHz CPU + Socket 1150 Haswell + 6MB Cache,25,302.66,intel,cpu
+AD770KXBJABOX,AMD A10-7700K Socket FM2 Quadcore CPU 3.4Ghz/3.8GHz TurboCore + 4x 1MB L2 Cache + 95W + Integrated Radeon R7,5,173.91,amd,cpu
+FD9370FHHKWOF, AMD FX-9370 4.4GHz AM3+ 8-Core CPU Retail Box + 16MB + 220W (requires AMD 990FX chipset & Heatsink),6,330.43,amd,cpu
+ X99-PRO/USB 3.1,Asus X99-PRO/USB 3.1 Intel X99 Socket 2011-v3 ATX Motherboard + 8x Quad Channel DDR4-3300 + 3-Way SLI/CrossFireX + USB 3.1 + M.2 + Wireless AC + BT + SATA3 + 5xUSB3.0,1,565.21,asus,motherboard
+ X99-EXTREME3,ASRock X99-EXTREME3 ATX Motherboard + 4x DDR4 + 2x PCI-E3.0x16 + 1x PCI-Ex16 + 10x SATA3/1x Ultra M.2. + 6x USB3.0 + GBLAN + RAID,2,356.52,asrock,motherboard
+GA-B150M-D3H,Gigabyte GA-B150M-D3H mATX Motherboard + Intel B150 Chipset LGA1151 + 4x DDR4 DIMM + VGA/DVI/HDMI + LAN + SATA3 + USB3 + 2x CrossFire,1,155.65,gigabyte,motherboard
+06G-P4-4995-KR,6GB EVGA GeForce GTX980Ti SC Version PCI-E3.0 16X Video card + 2x Fans + 2816x CUDA + 1190 MHz + DVI/HDMI/3xDP,1,1042.61,asus,graphics
+04G-P4-2983-KR,4GB EVGA GeForce GTX980 SC Version PCI-E3.0 Video card + ACX2.0 Cooling system + 2048 CUDA + 1367MHz + 2xDVI/HDMI/3x DP,1,790.48,evga,graphics
+12G-P4-2990-KR,12GB EVGA GeForce GTX Titan-X -- The Ultimate,1,1899,evga,graphics
+CT8G4DFD8213,8GB Crucial DESKTOP DDR4-2133Mhz DIMM 204pin 1.2v Non ECC PC4-17000 CL16 Desktop RAM,10,72.97,crucial,memory
+F4-3000C15D-16GTZB,16GB (2x 8GB) G.SKILL Trident Z Series DDR4- 3000Mhz CL15 1.35v Desktop Memory Model F4-3000C15D-16GTZB 15-16-16-35,2,258.75,g.skill,memory
+ ST2000DX001,"2TB Seagate 3.5"" Desktop SSHD + SATA 6Gbs + 8GB NAND Flash + 7200rpm 64MB Cache",6,181.74,seagate,Storage
+CT250MX200SSD1,"250GB Crucial MX200 SATA3 2.5"" SSD + 7mm & 9.5mm adaptor + 550MBs/500MBs R/W",8,143.48,crucial,storage
+U2412M,"24"" Dell UltraSharp U2412M HD LED Monitor + USB hub",1,391.3,dell,monitor
+U2913WM,"Dell UltraSharp U2913WM 29"" Ultra-wide IPS Monitor - 2560x1080, 8ms, 1 x DVI, 1 x DisplayPort, 1 x MiniDP, 1 x HDMI, 1 x VGA, 4 x USB, VESA",2,634.78,dell,monitor
+22M37D-B,"21.5"" LG 22M37D-B Full HD LED Monitor + 1920x1080 + DVI+VGA + Wall Mountable",4,169.57,lg,monitor
+27M47VQ-B,"27"" LG 27M47VQ-B LED Monitor + 2MS + HDMI+DVI+VGA + VESA mountable + 3 Years Perfect panel warranty",2,349.6,lg,monitor
+231P4UPEB/75,"23"" Philips 231P4UPEB/75 Notebook Docking Monitor + Height adjust + Intelligent PowerSensor",1,373.04,philips,monitor
+223V5LSB/75,"21.5"" Philips 223V5LSB/75 Full HD LED Monitor + 1080p + DVI/VGA",1,171.76,philips,monitor
+LS24C65KBWV/XY,"24"" Samsung LS24C65KBWV/XY AD-PLS Panel Business Monitor + 1200p + DVI/VGA + Height Adj/Tilt/Pivot/Swivel + VESA mount + Matte Black",2,373.91,samsung,monitor
+D7Z72AA,"HP Business E271i 68.6 cm (27"") LED LCD Monitor - 16:9 - 7 ms - Adjustable Display Angle - 1920 x 1080 - 250 cd/m - 1,000:1 - Full HD - DVI - VGA - DisplayPort",1,547.83,hp,monitor
+VP600P,600W Antec VP600P PSU + MEPS 88% Efficiency,2,104.35,antec,powersupply
+ RS750-AMAAG1-AU,750W Cooler Master V-Series 750S ATX Modular PSU + Active PFC + 80Plus Gold,1,208.7,coolermaster,powersupply
+RC-902XB-KKN2,COOLER MASTER HAF XB EVO ATX Cube Case + MESH window top panel version LAN BOX handles + No PSU + High Air Flow series + Dual USB3.0 SuperSpeed ports + X-Dock slots + 2x 120mm fans,2,173.04,coolermaster,case
+RR-212E-20PK-R2,Cooler Master Hyper 212 Evo Intel/AMD CPU heatsink & fan + Skt2011/FM1/AM3 support,2,60,coolermaster,fan&cooling
+H40,"Corsair Hydro Series H40 Hydro CPU water Cooler + 120mm Cooling Fan Included, Intel LGA 1366/1156/1155/775 and AMD FM1/AM3/AM2 Compatible",3,112.17,corsair,fan&cooling
+SEVOEM0165,ANTI-STATIC Wrist Strap Cordless,1,17.39,anti-static,accessory
+FDD-MTBK,"MOUNTING KIT 3.5"" TO 5.25"" BAY with front access face plate - Black",1,13.04,generic,accessory
